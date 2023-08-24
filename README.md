@@ -20,6 +20,7 @@ To use ReadMeCraft, follow these steps:
 1. Clone this repository to your local machine.
 2. Navigate to the repository's root directory in your terminal.
 3. Run `npm install` to install the required dependencies.
+4. Required dependicies: Inquirer@8.2.4
 
 ## Usage
 

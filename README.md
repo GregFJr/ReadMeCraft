@@ -44,9 +44,9 @@ Contributions to this project are welcome! If you'd like to contribute, please f
 4. Push your changes to your fork.
 5. Open a pull request to the `main` branch of this repository.
 
-## Tests
+## Walkthrough Video
 
-To test ReadMeCraft, you can follow the Usage instructions and generate a sample README. Review the generated README to ensure it contains the correct information.
+[ReadMeCraft Demo Video](https://watch.screencastify.com/v/UNIT6TM9W1prgNRyXXlo)
 
 ## Questions
 
@@ -54,7 +54,4 @@ If you have any questions or need further assistance, feel free to reach out:
 
 - GitHub: [gregfjr](https://github.com/GregFJr)
 - Email: finney101690@gmail.com
-
----
-
-© 2023 Your Name. This project is licensed under the terms of the MIT license.
+ 
